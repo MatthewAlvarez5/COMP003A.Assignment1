@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Matthew Alvarez
  * Course: COMP003A
- * Purpose: Week 1 Assignment 1 
+ * Purpose: Week 1 Assignment 1
  */
 
 
