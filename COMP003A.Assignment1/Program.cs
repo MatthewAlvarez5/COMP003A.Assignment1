@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Matthew Alvarez
  * Course: COMP003A
- * Purpose: Assignment 1 Familiarize with the program.
+ * Purpose: Week 1 Assignment 1 
  */
 
 
